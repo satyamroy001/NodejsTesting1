@@ -1,0 +1,25 @@
+{
+  "name": "viewer",
+  "version": "1.0.0",
+  "description": "A simple NodeJS package for viewing Folders/Files present in targeted directory. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satyamroy001/NodejsTesting1.git"
+  },
+  "keywords": [
+    "Directory",
+    "files",
+    "viewing",
+    "folder"
+  ],
+  "author": "Satyam Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satyamroy001/NodejsTesting1/issues"
+  },
+  "homepage": "https://github.com/satyamroy001/NodejsTesting1#readme"
+}
